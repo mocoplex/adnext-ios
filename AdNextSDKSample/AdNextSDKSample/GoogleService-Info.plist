@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>503123440262-dvnla05ijcng03lp6ol8scq5kk4olk3o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.503123440262-dvnla05ijcng03lp6ol8scq5kk4olk3o</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOd0uw77zrYi5_pK3tFFandh1JjZBBZjk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>503123440262</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mocoplex.AdNextSDKSample</string>
+	<key>PROJECT_ID</key>
+	<string>adnxt-trk</string>
+	<key>STORAGE_BUCKET</key>
+	<string>adnxt-trk.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:503123440262:ios:567d79f55961a7d2</string>
+	<key>DATABASE_URL</key>
+	<string>https://adnxt-trk.firebaseio.com</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-2656860633606858~4038525312</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module ADNextCoreSDK {
+  umbrella header "ADNextCoreSDK.h"
+
+  export *
+  module * { export * }
+}
